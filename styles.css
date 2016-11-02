@@ -52,3 +52,30 @@ font-family: 'Lato', sans-serif;*/
   letter-spacing: 5px;
   font-size: 20px;
 }
+
+.container-three{
+  height: 50vh;
+  width: 100vh;
+  margin: auto;
+  padding-top: 100px;
+  font-family: 'Limelight', cursive;
+}
+
+.shrimp-container {
+  letter-spacing: 3px;
+  margin: auto;
+  font-size: 40px;
+  text-align:left;
+  height: 75%;
+  width: 80%;
+  background: #181700;
+  color: #181700;
+  text-shadow: -1px -1px 0 #9D91C7,
+    1px -1px 0 #9D91C7,
+    -1px 1px 0 #9D91C7,
+     1px 1px 0 #9D91C7;
+}
+
+.jeffery {
+  margin-top: 20px;
+}
